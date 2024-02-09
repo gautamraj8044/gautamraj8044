@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gautamraj8044/](https://github.com/gautamraj8044/)
 
-- 📫 How to reach me **gautamraj8044@gmail.com**
+- 📫 Contact me at **gautamraj8044@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
