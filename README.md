@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gautam Raj</h1>
 <h3 align="center">A am Flutter Developer</h3>
 
-<img align = "right" alt="coding" width ="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fupdategadh.com%2Fproject-for-beginners-and-advanced%2F&psig=AOvVaw3wftsTm4E_DZbge4hLRF2Q&ust=1707568644279000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCchYejnoQDFQAAAAAdAAAAABAg">
+<img align="right" alt="coding" width="400" src="https://updategadh.com/wp-content/uploads/2023/07/Java-web-project-configuration.gif">
 
 - 👨‍💻 All of my projects are available at [https://github.com/gautamraj8044/](https://github.com/gautamraj8044/)
 
