@@ -26,6 +26,9 @@
   <a href="mailto:gautamraj8044@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+   <a href="https://huggingface.co/gautamraj8044/" target="_blank">
+      <img src="https://img.shields.io/badge/HuggingFace-FF4F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
+  </a>
 </p>
 
 ### 🛠️ Tech Stack
